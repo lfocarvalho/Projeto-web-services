@@ -21,3 +21,18 @@ Este projeto tem como objetivo a construção de uma API RESTful utilizando o ec
 - Spring Data JPA
 - H2 Database
 - Maven
+
+  ## Informações Acadêmicas:
+
+      Universidade Federal do Tocantins 
+      Curso: Ciencias da computação 
+      Disciplina: Programação orientada a objetos  - Semestre 2025.1
+      Professor David Nadler Prata
+
+#### Equipe
+| Nome | Github |
+| ------------------------- | ------------------------------------------ |
+| Luiz Fernando De Oliveira Carvalho. | [@Lfocarvalho](https://github.com/lfocarvalho) |
+| Natália Morais Nerys. | [@Natalia-Nerys](https://github.com/natalia-nerys) |
+| Link para repositório do projeto | [Projeto-web-services](https://github.com/lfocarvalho/Projeto-web-services.git)
+
