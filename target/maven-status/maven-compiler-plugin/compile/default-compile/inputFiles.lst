@@ -1,6 +1,27 @@
-C:\Users\nando\Desktop\projeto poo\springboot-webservice-pronto-1\src\main\java\com\example\demo\DemoApplication.java
-C:\Users\nando\Desktop\projeto poo\springboot-webservice-pronto-1\src\main\java\com\example\demo\resources\UserResource.java
-C:\Users\nando\Desktop\projeto poo\springboot-webservice-pronto-1\src\main\java\com\example\demo\services\UserService.java
-C:\Users\nando\Desktop\projeto poo\springboot-webservice-pronto-1\src\main\java\com\example\demo\entities\User.java
-C:\Users\nando\Desktop\projeto poo\springboot-webservice-pronto-1\src\main\java\com\example\demo\repositories\UserRepository.java
-C:\Users\nando\Desktop\projeto poo\springboot-webservice-pronto-1\src\main\java\com\example\demo\config\TestConfig.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\Order.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\repositories\UserRepository.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\Category.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\resources\UserResource.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\repositories\PaymentRepository.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\resources\ProductResource.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\DemoApplication.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\repositories\CategoryRepository.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\config\TestConfig.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\OrderItem.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\services\UserService.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\services\OrderService.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\enums\PaymentStatus.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\enums\OrderStatus.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\resources\exceptions\StandardError.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\repositories\OrderItemRepository.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\User.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\services\exceptions\ResourceNotFoundException.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\repositories\OrderRepository.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\services\ProductService.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\Product.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\Payment.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\resources\OrderResource.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\repositories\ProductRepository.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\services\exceptions\DatabaseException.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\resources\exceptions\ResourceExceptionHandler.java
+C:\xampp\htdocs\Projeto-web-services\src\main\java\com\project\entities\pk\OrderItemPK.java
