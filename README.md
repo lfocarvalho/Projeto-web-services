@@ -35,4 +35,3 @@ Este projeto tem como objetivo a construção de uma API RESTful utilizando o ec
 | Luiz Fernando De Oliveira Carvalho. | [@Lfocarvalho](https://github.com/lfocarvalho) |
 | Natália Morais Nerys. | [@Natalia-Nerys](https://github.com/natalia-nerys) |
 | Link para repositório do projeto | [Projeto-web-services](https://github.com/lfocarvalho/Projeto-web-services.git)
-
