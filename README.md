@@ -1,6 +1,6 @@
 # Projeto Web Services - API com Spring Boot
 
-Este projeto é uma API RESTful desenvolvida com Spring Boot, JPA e Hibernate. Simula um sistema de e-commerce básico, incluindo endpoints para gerenciamento de usuários, produtos, categorias e pedidos. O projeto demonstra boas práticas de desenvolvimento, como arquitetura em camadas, tratamento de exceções e uso de perfis de configuração (profiles).
+Este projeto é uma API RESTful desenvolvida com Spring Boot, JPA e Hibernate. Simula um sistema de e-commerce básico, incluindo endpoints para gerenciamento de usuários, produtos, categorias e pedidos.
 
 ## ✅ Funcionalidades Principais
 
